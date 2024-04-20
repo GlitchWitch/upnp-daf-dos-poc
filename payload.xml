@@ -7,13 +7,13 @@
 
   <device>
     <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
-      <friendlyName>UPNP DAF DOS PoC From GlitchWitch</friendlyName>
+      <friendlyName>UPNP DAF DoS PoC By GlitchWitch</friendlyName>
       <manufacturer>GlitchSecure</manufacturer>
       <manufacturerURL>https://www.glitchsecure.com</manufacturerURL>
       <modelName>PoC</modelName>
       <modelNumber>1.0</modelNumber>
       <modelURL>https://www.glitchsecure.com</modelURL>
-      <presentationURL>/</presentationURL>
+      <presentationURL>https://raw.githubusercontent.com/GlitchWitch/upnp-daf-dos-poc/main/README.md</presentationURL>
       <UDN>uuid:com.glithsecure.poc.1</UDN>
   </device>
 </root>
