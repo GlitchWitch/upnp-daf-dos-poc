@@ -8,4 +8,4 @@ for ((i=1; i<=max_payloads; i++)); do
 done
 # clean up
 # rm payloads/*
-# kilall upnpd
+# killall upnpd

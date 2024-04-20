@@ -2,9 +2,9 @@
 
 Inspired by this post: https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t
 
-This is a quick and dirty PoC that utilises [simple-upnpd](https://github.com/victronenergy/simple-upnpd) to reproduce the issue described in @ghoulnoise's post. 
+This is a quick and dirty PoC that utilises [simple-upnpd](https://github.com/victronenergy/simple-upnpd) to reproduce the issue described in @ghoulnoise's post.
 
-This is done by repeatedly broadcasting devices with incrementing (and invalid) UUIDs, these devices are then automatically added to Device Association Framework on any Windows system's on the ame network that have "Private Network" and "Set up network connected devices automatically" enabled.
+This is done by repeatedly broadcasting devices with incrementing (and invalid) UUIDs, these devices are then automatically added to Device Association Framework on any Windows system's on the same network that have "Private Network" and "Set up network connected devices automatically" enabled.
 
 
 ## Usage
