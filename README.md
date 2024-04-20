@@ -33,3 +33,7 @@ Step 4. ???
 Step 5. Visit Settings->Bluetooth & devices->Devices or `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DeviceAssociationService\State\Store` and note the newly created devices.
 
 ![Screenshot of windows after successful exploitation](poc.png)
+
+## Exploit Prevention
+
+To protect your device from this attack you can disable "Set up network connected devices automatically" via the Advanced Sharing Settings in the Network and Sharing Center.
