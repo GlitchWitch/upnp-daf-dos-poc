@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+
+  <device>
+    <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
+      <friendlyName>UPNP DAF DOS PoC From GlitchWitch</friendlyName>
+      <manufacturer>GlitchSecure</manufacturer>
+      <manufacturerURL>https://www.glitchsecure.com</manufacturerURL>
+      <modelName>PoC</modelName>
+      <modelNumber>1.0</modelNumber>
+      <modelURL>https://www.glitchsecure.com</modelURL>
+      <presentationURL>/</presentationURL>
+      <UDN>uuid:com.glithsecure.poc.1</UDN>
+  </device>
+</root>
